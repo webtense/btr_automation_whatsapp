@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_btr_automation,btr_automation,model_btr_automation,base.group_user,1,0,0,0
+access_resumen_diario,resumen_diario,model_resumen_diario,base.group_user,1,0,0,0
+access_resumen_semanal,resumen_semanal,model_resumen_semanal,base.group_user,1,0,0,0

@@ -1,3 +1,6 @@
-
-# Nunca subir secretos
+# Secrets / config locales
 secrets.yaml
+secrets.yaml.example
+.env
+*.pem
+*.key
